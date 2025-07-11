@@ -1,3 +1,8 @@
+---
+title: Example Title
+draft: false
+
+---
 # Yondar
 Yondar is a land of contrasts and conflicts, innovation and ancient mysteries. Spanning vast territories, it is home to scholar cities, lawless frontiers, and forgotten ruins from civilizations long past. The land itself is known for its unpredictable geography, with landscapes shaped by both natural forces and arcane phenomena. Rivers shift course without warning, mountains seem to grow overnight, and hidden valleys appear only under the right celestial alignments.
 
