@@ -1,4 +1,5 @@
 ---
 draft:
 ---
+![[The Astral Observatory.png]]
 Rising like a shard of ancient starlight from the northern ridge of Calveris, the Astral Observatory looms over the city like a silent sentinel of the skies. Its structure is elegant, geometric, and eerily pristine—three hexagonal tiers stacked atop one another, each level slightly smaller than the one below. From a distance, it resembles a crystalline tower or an abstract pillar of truth, etched against the firmament. The building is hewn from pale starstone—an iridescent mineral that shimmers faintly in the daylight and glows with a soft bluish-silver hue under moonlight. At each corner of the hexagonal walls, sleek bronze runes have been inlaid, pulsing ever so faintly with arcane charge. Thin, metallic rods protrude from the highest floor into the sky, forever reaching, measuring, and sometimes humming when the wind is right.

@@ -1,4 +1,5 @@
 ---
 draft:
 ---
+![[The Obscured Quill.png]]
 The forgotten pub, formerly known as the Obscured Quill, sits hidden in a small crevice of the former Omberlyn district. Once a sanctuary for those who lived between the lines, the pub now rots in silence. Dust chokes the air, broken glass litters the warped wooden floors, and overturned furniture suggests a departure both sudden and unwelcome. The scent of old ink and spilled spirits still lingers, a ghost of the secrets once exchanged here. A chalkboard menu, smeared and illegible, hangs askew behind the bar. A single chair stands upright in the centre of the room—as if someone was just here… or never left.

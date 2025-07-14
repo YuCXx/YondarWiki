@@ -30,11 +30,11 @@ draft:
 
 
 ## The Fractured Theorem
-Upon arriving at the [[The Fractured Theorem|Fractured Theorem]], the heroes kerfuffle-d their ways through the tavern. A mysterious figure vanished, leaving behind a curious receipt listing: an unusual order, a name that cannot be deciphered, and a payment stamp from a pub known as the [[The Obscured Quill|Obscured Quill]] in a district called [[Calveris#Omberlyn|Omberlyn]] that nobody seems to remember.
+Upon arriving at the [[The Fractured Theorem|Fractured Theorem]], the heroes kerfuffle-d their ways through the tavern's signature brand of organized chaos. Amid the cacophony of laughter, magical sparks, and drunken theorizing, a shadowy figure slipped away, leaving behind a curious receipt listing: an unusual order, a name that cannot be deciphered, and a payment stamp from a pub known as the [[The Obscured Quill|Obscured Quill]] in a district called [[Calveris#Omberlyn|Omberlyn]] that nobody seems to remember.
 
-During their stay at the tavern, Barnabus continuously skulled down bottles and kegs of cruciferous liquor, with a thirst capable of drowning the whole region of [[The Popolis Despotate|Popolis]]. Morgan played the role of detective, albeit awkwardly due to his lack of intelligence. He managed to stumble through a horn based recreation of a classic piece of music, impress all who listened. Jombly pressed insistently upon the mysterious events leading up to and within the tavern, spurring on the investigation. Ezio remained cautious, proposing calculated suggestions to the party. Felicity - well… Felicity was there too.
+During their time in the tavern, Barnabus consumed heroic quantities of cruciferous liquor, seemingly attempting to outdrink the continent itself. Morgan donned the detective’s mantle, albeit awkwardly, yet managed to impress the crowd with a surprising horn-based rendition of a classical melody. Jombly, ever insistent, pressed the group to unravel the mystery unfolding around them. Ezio maintained a steady presence, offering sharp, calculated insights. And Felicity—well, Felicity was present in her own mysterious way.
 
-At then end of the evening, the group received a map from the tavernkeeper and an intriguing set of clues from others:
+As the night wound down, the tavernkeeper offered them a map, while other patrons left behind cryptic clues:
 
 *“[[Calveris#Omberlyn|Omberlyn]] holds the key.”*  
 
@@ -43,39 +43,35 @@ At then end of the evening, the group received a map from the tavernkeeper and a
 *“Course, maps only tell you where things are—not where you ought to go. That part’s up to you.”*
 
 ## Finding Varcen
-The group continued with their investigation of the ominous receipt they found at [[The Fractured Theorem|the Fractured Theorem]]. Following the clues provided to them, they arrived in the forgotten district of [[Calveris#Omberlyn|Omberlyn]] and before the abandoned pub known as [[The Obscured Quill|the Obscured Quill]].
+Following the trail from the receipt, the party made their way into the forgotten district of [[Calveris#Omberlyn|Omberlyn]] and discovered the abandoned pub known as [[The Obscured Quill|the Obscured Quill]].
 
-The group was ambushed by a band of [[The Arbiter Council#Initiates|Initiate Arbiters]], one of whom oddly recognised Ezio. Jombly desperately swung with his weapon, continuously embarrassing himself to the dismay of his colleagues. Likewise, Barny's swing also consistently missed by hair-widths. Despite such arduous attempts at heroism, the group succeeded in defeating the Initiates, binding and questioning a survivor, who did not reveal much to the group.
+The group was ambushed by a band of [[The Arbiter Council#Initiates|Initiate Arbiters]], one of whom seemed to recognize Ezio. Jombly fought with great enthusiasm but little effectiveness, while Barnabus’s swings barely grazed air. Despite their stumbles, the group emerged victorious and managed to bind one surviving foe—though interrogation yielded little.
 
-After this dangerous encounter, a dusty bottle no longer holding its original contents revealed a note that led the heroes into the basement of the pub. At the bottom, they were met with puzzles of arcane nature, testing their wit and intuition in every chamber.
+After this dangerous encounter, a dusty bottle no longer holding its original contents revealed a note that led the heroes into the basement of the pub. At the bottom, they were met with puzzles of arcane nature, testing their wit and intuition in each chamber.
 
-After overcoming the trials in the basement, the heroes come face to face with [[Varcen the Arbiter|Varcen Omirion]], who bestows upon them a crucial mission. To rid the continent of the now-corrupted grasp of the [[The Arbiter Council|Arbiter Council]]. After a riveting speech, the heroes are teleported back to the streets of [[Calveris#Luxor|Luxor]].
+After overcoming the trials in the basement, the heroes come face to face with [[Varcen the Arbiter|Varcen Omirion]]. He gave a rousing speech and entrusted them with a dire mission: to dismantle the corrupt Arbiter Council. With a flash of arcane light, the group was whisked back to the streets of Luxor.
 
 ## The Fugitive
-After the teleportation, the heroes are met with a distraught researcher being chased by two [[The Argent Collegium#The Concordants|Concordants]].  They save the scholar by defeating the Concordants, and learn that the individual they had rescued was [[Veylan Arros]], Jombly's missing employer. 
+No sooner had the heroes regained their bearings did they came across a frazzled scholar pursued by two [[The Argent Collegium#The Concordants|Concordants]].  . After dispatching the attackers, the scholar revealed himself as [[Veylan Arros]]—none other than Jombly’s missing employer.
 
-[[Veylan Arros|Veylan]] tells the group that he had escaped from a facility known as [[The Sepulcrum Institute]], where horrendously unethical research was being conducted on abducted individuals. The heroes decide to investigate this lead.
+[[Veylan Arros|Veylan]] spoke of horrific experiments conducted at the [[The Sepulcrum Institute|Sepulcrum Institute]], a secret facility where abducted individuals were subjected to brutal research. The party resolved to investigate.
 
 ## The Sepulcrum Institute 
-At the research facility, Ezio suggests to the group that he will stay behind to bring up the rear. The remaining heroes explore the institute, where they discover that the research being conducted involved investigations of consciousness by dissecting and looking at the anatomies of abducted species. These heroes manage to rescue abductees that were huddled in a corner of the building, guarded by several researchers and Husks - a zombiefied shell of what used to be a person. Amongst the abductees was [[Larethion Vensharde]], Felicity's missing mentor from the [[The Astral Observatory|Astral Observatory]]. The heroes are almost defeated by a powerful researcher only to be rescued by the hidden Ezio, who reveals that he was dispatched by the Brotherhood on a secretive mission.
+At the research facility, Ezio offered to stay behind and watch the rear. The others pressed forward, uncovering the terrifying truth: researchers were dissecting victims in pursuit of understanding consciousness arcana. Among the captives they rescued were several abductees—and Felicity’s mentor, [[Larethion Vensharde]]. The heroes are almost defeated by a powerful researcher, and just as the battle turned grim, Ezio reappeared, striking down a powerful researcher. He revealed that he had been working undercover for the Brotherhood.
 
-Upon returning to the [[The Fractured Theorem|Fractured Theorem]] with the rescued abductees, the heroes are directed by the tavernkeeper towards the back rooms, where a makeshift base has been set up under the instruction of [[Varcen the Arbiter|Varcen]]. [[Larethion Vensharde|Larethion]] and [[Veylan Arros|Veylan]] recount their own respective experiences to the heroes. They reveal that the [[The Arbiter Council|Arbiter Council]] ordered research regarding consciousness arcana in order to control the populace, and the scholars were captured for speaking against the research.  It is also revealed that the Arbiter Council was manipulating the [[The Argent Collegium|Argent Collegium]] in backing this research. 
+Upon returning to the [[The Fractured Theorem|Fractured Theorem]] with the rescued abductees, the heroes are directed by the tavernkeeper towards the back rooms, where a makeshift base has been set up under the instruction of [[Varcen the Arbiter|Varcen]]. [[Larethion Vensharde|Larethion]] and [[Veylan Arros|Veylan]] recount their own respective experiences to the heroes. They exposed the [[The Arbiter Council|Arbiter Council]]’s plan to use consciousness magic as a tool of mass control—and the [[The Argent Collegium|Argent Collegium]]’s unwitting complicity.
 
-It is decided that together, this group will form a collective aimed at fighting against the corrupt Arbiter Council. The first order of business is for the heroes to collect two pieces of correspondence from the former "offices" of Larethion and Veylan, [[The Astral Observatory]] and [[The Whispering Catacombs]] respectively.
+It was decided then: the group would band together to form a resistance against the Council. Their first goal—recover critical correspondence from Larethion’s and Veylan’s former offices: [[The Astral Observatory]] and [[The Whispering Catacombs]].
 
-But first, the group visit the [[Greybark Stalls]] to prepare themselves for the upcoming mission.
+But first, the group visit the [[Greybark Stalls]] to prepare themselves for their upcoming mission.
 
 ## Retrieving the Evidence
-The group successfully defeat and collect the letters, each of the letters were written by a different Executor Arbiter: [[Wyn Ianberos]] and [[Ralul Paki]]. During their excursion to [[The Whispering Catacombs]] the heroes also managed to save some Initiate Arbiters that were surprised to learn of the groups' goal of destroying the Arbiter Council. It is revealed to the heroes that maybe some Arbiters are not evil, contrary to their original beliefs.
+The group successfully retrieve both letters, each written by a different Executor Arbiter: [[Wyn Ianberos]] and [[Ralul Paki]]. During their excursion to [[The Whispering Catacombs]] the heroes also managed to save a group of Initiate Arbiters. These young Arbiters were shocked to learn of the party’s mission and expressed doubts about the Council’s integrity—raising, for the first time, the question of whether all Arbiters were truly beyond redemption.
 
 ## The Scholar's Regret
-On their way back to [[The Fractured Theorem]], the heroes bump into a scholar who was trying to incinerate a book, but the book would reappear nearby after alighting. The group deceive the scholar and take the mysterious book away.
+On their way back to [[The Fractured Theorem]], the party encountered a scholar trying to burn a book that refused to stay destroyed. Every time it was lit aflame, it would reappear nearby. The party tricked the scholar and took possession of the mysterious tome.
 
 ## The Research Symposium
-After returning to [[The Fractured Theorem]], Larethion and Veylan reveal that there is an upcoming research symposium, the main festival of Calveris, during which the Argent Collegium and Arbiter Council higher-ups will be attending to watch presentations of the most current research being conducted in the region. 
+Upon their return, Larethion and Veylan informed the party of an upcoming research symposium—Calveris’ most prestigious academic festival, where the city’s elite, including members of the Arbiter Council and Argent Collegium, would be in attendance. A bold plan was devised: the heroes would present their evidence as part of the symposium’s schedule, disguising it as scholarly research. 
 
-A plan to reveal their evidence of the Arbiter Council's research to the populace was thus hatched. The heroes were to present their evidence under the guise of 'current research' during the symposium.
-
-After their presentation, Wyn and Ralul present themselves from amonst the audience, the heroes challenge them to a Ludum which the heroes won. However, despite having previously agreed on a wager, Jace, the Sentinel Arbiter that rules of the city of Calveris appears, instantaneously setting alight the first row of the audience members in order to trap the heroes onstage. 
-
-The heroes fight Jace and win. Larethion and Veylan step in to temporarily replace the power vacuum that now exists in the Arbiter Council in Calveris.
+When the moment came, the party made their case. Wyn and Ralul rose from the audience, and a formal Ludum was issued. The party triumphed—but before the terms of the duel could be honoured, Jace, the Sentinel Arbiter of Calveris, appeared. Without warning, he incinerated the front row of the audience, sealing the heroes onstage. A climactic battle unfolded. Jace was defeated, and in the aftermath, Larethion and Veylan stepped forward to fill the power vacuum left by the fallen Arbiter regime.
