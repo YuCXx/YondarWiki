@@ -35,11 +35,11 @@ During their stay at the tavern, Barnabus continuously skulled down bottles and 
 
 At then end of the evening, the group received a map from the tavernkeeper and an intriguing set of clues from others:
 
-_“[[Calveris#Omberlyn|Omberlyn]] holds the key.”  
+*“[[Calveris#Omberlyn|Omberlyn]] holds the key.”*  
 
-“Start with what’s missing, not what’s there.”  
+*“Start with what’s missing, not what’s there.”*  
 
-“Course, maps only tell you where things are—not where you ought to go. That part’s up to you.”
+*“Course, maps only tell you where things are—not where you ought to go. That part’s up to you.”*
 
 ## Finding Varcen
 The group continued with their investigation of the ominous receipt they found at [[The Fractured Theorem|the Fractured Theorem]]. Following the clues provided to them, they arrived in the forgotten district of [[Calveris#Omberlyn|Omberlyn]] and before the abandoned pub known as [[The Obscured Quill|the Obscured Quill]].
