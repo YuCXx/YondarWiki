@@ -1,3 +1,6 @@
+---
+draft:
+---
 A nation on the eastern end of Yondar, the Popolis Despotate is a realm of intellect and authority, where knowledge is both currency and weapon. Ruled by the enigmatic Argent Collegium, this despotate holds an iron grip over the pursuit of wisdom, controlling not only the vast academic institutions of its capital, Calveris, but also the flow of information, research, and magical advancements across its borders.
 
 Nestled between rugged highlands to the north and fertile river valleys to the south, Popolis is a land of contrasts—where towering libraries and observatories stand in stark opposition to the squalor of knowledge-starved settlements on its outskirts. While its scholars delve into philosophy, alchemy, and arcane mechanics within the grand halls of learning, the common folk toil in regulated industries, their lives dictated by edicts drafted by unseen hands in Collegium chambers.

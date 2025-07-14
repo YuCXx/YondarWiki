@@ -1,20 +1,26 @@
 ---
 title: The Story so Far...
+draft:
 ---
 ## The Heroes
 > [!Info] Barnabus Dickus
+> ![[Barnabus_Portrait.png]]
 > Barnabus was in the Clockwork Bazaar, an area along Greybark Road filled with peculiar, magical, and mechanical oddities—artificers peddle their wares, alchemists sell questionable potions, and enchanted trinkets clink together in cluttered market stalls. He woke up locked in a storage crate after a night of drinking and gambling. The merchant who found him was furious and demanded payment. A bystander, amused by Barnabus’ predicament, jokingly suggested that “the only place to get a free drink after a bad bet is The Fractured Theorem.” With few other options, he heads there.
 
 > [!Info] Ezio Valore
+> ![[Ezio_Portrait.png]]
 > Ezio awoke on an examination table with no memory of how he got there. The attending scholar was equally surprised to see him awake. Ezio persuaded the scholar to reveal information about the laboratory: A medical facility where scholars pushed the limits of magical and scientific discovery. Ethics are often debated, but rarely followed. A half-burned medical report found on the floor mentions a mysterious sponsor funding certain “experiments.” The sponsor’s last recorded location? The Fractured Theorem.
 
 > [!Info] Felicity Fartsalot
+> ![[Felicity_Portrait.png]]
 > Felicity was hired to assist a stargazer obsessed with a constellation that shouldn’t exist. The night before, the stargazer entered the Astral Observatory and never came back out. Felicity's search for the astronomer led to rumours that he often drank at The Fractured Theorem when his research frustrated him. When Felicity arrived, the bartender confirmed it—and says someone matching his description was last seen arguing with an Arbiter.
 
 > [!Info] Jombly Lane
+> ![[Jombly_Portrait.png]]
 > A scholar paid Jombly to guard them during a ritual at The Whispering Catacombs, but when he awoke, his employer was gone, and a strange message was scraped into the stone wall. A trail of chalk symbols—likely left by Jombly's employer—led him above ground and into the alleyway behind The Fractured Theorem, where an anxious figure was waiting. But before he could speak, the figure vanished into the crowd.
 
  > [!Info] Morgan Cole
+ > ![[Morgan_Portrait.png]]
  > Morgan was at the Scholar's Bathhouse, a serene, marble-clad bathhouse where academics, researchers, and mages relaxed while discussing the latest theories and breakthroughs. While enjoying a well-earned rest, Morgan overhears two High Arbiters discussing a rigged Ludum Concordia game that resulted in someone’s disappearance. After leaving, a bathhouse attendant slipped Morgan a note, which warned him to "watch his back." The note is signed with the initials "V.A.". A second note followed, instructing him to “seek answers where the broken gather.”
 
 ## The Fractured Theorem

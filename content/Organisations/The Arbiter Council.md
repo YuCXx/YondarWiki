@@ -1,3 +1,6 @@
+---
+draft:
+---
 Throughout the land, Arbiters—neutral adjudicators trained in logic, strategy, and fairness—oversee the contests and ensure no one cheats. Their home base resides in the City of Burham, in the Bishopric of Chiltash.
 
 ## Structure and Hierarchy

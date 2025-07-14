@@ -1,3 +1,6 @@
+---
+draft:
+---
 The Argent Collegium is the unchallenged ruling body of the Popolis Despotate, a council of scholars, arcane theorists, and bureaucratic masterminds who wield knowledge as both a shield and a weapon. More than just an academic institution, the Collegium is a machine of governance, ensuring that the pursuit of knowledge remains within the bounds of order, efficiency, and—above all—control.
 
 The Argent Collegium operates on a singular belief: Knowledge is power, and power must be controlled. To the Collegium, unrestricted discovery leads to anarchy, and anarchy is a threat to civilization itself. Their rule is not one of open tyranny but of carefully engineered stability.

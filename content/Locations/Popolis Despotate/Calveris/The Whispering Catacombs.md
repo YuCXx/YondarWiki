@@ -1,1 +1,4 @@
+---
+draft:
+---
 The moment you cross its threshold, the air thickens—damp and cold, carrying the mineral scent of wet stone and something faintly metallic beneath it. The walls are carved from deep slate, slick with condensation, and warped by the slow breath of centuries. A low hum seems to vibrate just beyond hearing, rising and falling like distant chanting—or is it something deeper? Flickering green arcane lanterns float a few feet above the floor, tethered by no chains or spell sigils you can see. Their eerie glow casts warped shadows against the walls, making every alcove seem like a passage, and every turn like it’s watching you back. Dust motes hang frozen in the air, suspended in the faint, glowing haze.

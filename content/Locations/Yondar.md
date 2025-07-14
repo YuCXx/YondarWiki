@@ -1,3 +1,24 @@
+---
+draft:
+---
+```leaflet
+id: YondarMap  
+image: YondarMap.png
+
+height: 500px ### Size of the leaflet embed in px on your screen  
+width: 100% ### Size of the leaflet embed in your note  
+lat: 50 ### To center the map, make this half of the map height.  
+long: 50 ### To center the map, make this half of the map width.  
+minZoom: -4 ### Controls how far away from the map you can zoom out. Hover over the target icon to see the current level.  
+maxZoom: 1 ### Controls how far towards the map you can zoom in. Hover over the target icon to see the current level.  
+defaultZoom: -4 ### Sets the default zoom level when the map loads. Hover over the target icon to see the current level.  
+zoomDelta: 0.5 ### Adjust how much the zoom changes when you zoom in or out.  
+unit: mi ### The value displayed when measuring so you know what type of unit is being measure.  
+scale: 1 ### Real units/px (resolution) of your map  
+recenter: false  
+darkmode: false ### marker
+```
+
 Yondar is a land of contrasts and conflicts, innovation and ancient mysteries. Spanning vast territories, it is home to scholar cities, lawless frontiers, and forgotten ruins from civilizations long past. The land itself is known for its unpredictable geography, with landscapes shaped by both natural forces and arcane phenomena. Rivers shift course without warning, mountains seem to grow overnight, and hidden valleys appear only under the right celestial alignments.
 
 ## History

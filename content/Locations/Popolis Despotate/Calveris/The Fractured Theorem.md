@@ -1,3 +1,6 @@
+---
+draft:
+---
 Nestled in the heart of Luxor, The Fractured Theorem is a well-known tavern for scholars, mages, and free thinkers. Unlike the quiet libraries and lecture halls of the city, this establishment is lively—filled with heated debates, drunken theorizing, and the occasional arcane mishap. The walls are adorned with half-finished equations, diagrams of magical phenomena, and notes scribbled by past patrons, some of which might even be useful (or wildly incorrect). The Fractured Theorem is the kind of place where professors drink alongside mercenaries, where students bet drinks over logic puzzles, and where new theories are born (and debunked) over a well-poured mug of ale.
 
 The tavern specializes in unique drinks and experimental dishes, often inspired by alchemy and magical studies. The menu is a blend of local delicacies, exotic imports, and food inspired by academic disciplines—from mathematically perfect pie slices to magically aerated soufflés. While there are no rooms for lodging, The Fractured Theorem has plenty of dimly lit nooks and candlelit tables for scholars who need a place to talk, argue, or drink away the consequences of a failed experiment.
