@@ -25,6 +25,7 @@ draft:
 
 > [!Info] Morgan Cole 
 > ![[Morgan_Portrait.png]]
+>  
 > Morgan was at the Scholar's Bathhouse, a serene, marble-clad bathhouse where academics, researchers, and mages relaxed while discussing the latest theories and breakthroughs. While enjoying a well-earned rest, Morgan overhears two High Arbiters discussing a rigged Ludum Concordia game that resulted in someone’s disappearance. After leaving, a bathhouse attendant slipped Morgan a note, which warned him to "watch his back." The note is signed with the initials "V.A.". A second note followed, instructing him to “seek answers where the broken gather.”
 
 
