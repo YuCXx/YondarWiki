@@ -75,3 +75,19 @@ On their way back to [[The Fractured Theorem]], the party encountered a scholar 
 Upon their return, Larethion and Veylan informed the party of an upcoming research symposium—Calveris’ most prestigious academic festival, where the city’s elite, including members of the Arbiter Council and Argent Collegium, would be in attendance. A bold plan was devised: the heroes would present their evidence as part of the symposium’s schedule, disguising it as scholarly research. 
 
 When the moment came, the party made their case. Wyn and Ralul rose from the audience, and a formal Ludum was issued. The party triumphed—but before the terms of the duel could be honoured, Jace, the Sentinel Arbiter of Calveris, appeared. Without warning, he incinerated the front row of the audience, sealing the heroes onstage. A climactic battle unfolded. Jace was defeated, and in the aftermath, Larethion and Veylan stepped forward to fill the power vacuum left by the fallen Arbiter regime.
+
+## [[Calveris]] Reignited
+Hundreds perished in the initial flames, hundreds more in the destruction that followed. The streets around the symposium site are scorched, cordoned off, and patrolled by Luminaries and Concordants in emergency roles. [[The Fractured Theorem]] became an emergency coordination hub in the midst of the chaos. Students carried supplies across the suburbs, renegade healers performed triage, chalkboards were covered in emergency rosters instead of drunken theories. Stragglers were rounded up, [[Wyn Ianberos]] and [[Ralul Paki]] were publicly shackled and paraded through the city before being locked away. [[Larethion Vensharde]] and [[Veylan Arros]] acted as reformists, helping to stabilise the city and prevent [[The Argent Collegium]] from repeating its mistakes. Days pass after the Symposium Incident, and the city is still in shock. Amidst the turmoil of this newfound power vacuum, the heroes receive a message from [[Larethion Vensharde]]. 
+
+>To the Esteemed Agents of the Fractured Accord,
+>
+>I trust this letter finds you in sound condition and sharper resolve. Your efforts in Calveris continue to echo through the city—each whisper of rebellion now carries your names. The roots of corruption may be severed here, but the rot runs deep across the Despotate.
+>Trouble stirs near the bordering village of Kalas, north of Calveris. Reports have surfaced of a band of brigands—masked and well-organised—raiding supply wagons en route to relief posts in the outer districts. These caravans were transporting essential provisions and medicinal stockpiles meant for stabilising settlements affected by the Arbiter withdrawal.
+>At first, I suspected desperate scavengers. But the frequency and precision of these strikes suggests a more orchestrated effort. There are whispers that these attacks may be the work of displaced Arbiter loyalists seeking to sow chaos under the guise of lawlessness.
+>I ask that you travel to Kalas immediately. Speak with the local quartermaster—Aurelia Nyem, a competent woman with more nerves than patience. She oversees distribution from the village granary and will provide further details. Bring subtlety where you can, but do not hesitate to draw steel if the situation demands it. We cannot allow this disruption to spiral—Popolis is watching, and every minor victory becomes proof that our cause breeds order, not chaos.
+>Should you uncover proof of deeper involvement—names, insignia, or sealed orders—secure it and return swiftly. We may soon find ourselves needing every thread of truth we can weave into this new tapestry.
+>
+>In service to light from shadow,  
+>Larethion Vensharde
+>_Scholarch Emeritus, Astral Observatory_  
+>_Adviser to the Accord for Liberation_
