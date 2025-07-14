@@ -23,10 +23,10 @@ draft:
 > 
 > A scholar paid Jombly to guard them during a ritual at The Whispering Catacombs, but when he awoke, his employer was gone, and a strange message was scraped into the stone wall. A trail of chalk symbols—likely left by Jombly's employer—led him above ground and into the alleyway behind The Fractured Theorem, where an anxious figure was waiting. But before he could speak, the figure vanished into the crowd.
 
- > [!Info] Morgan Cole
- > ![[Morgan_Portrait.png]]
- > 
- > Morgan was at the Scholar's Bathhouse, a serene, marble-clad bathhouse where academics, researchers, and mages relaxed while discussing the latest theories and breakthroughs. While enjoying a well-earned rest, Morgan overhears two High Arbiters discussing a rigged Ludum Concordia game that resulted in someone’s disappearance. After leaving, a bathhouse attendant slipped Morgan a note, which warned him to "watch his back." The note is signed with the initials "V.A.". A second note followed, instructing him to “seek answers where the broken gather.”
+> [!Info] Morgan Cole 
+> ![[Morgan_Portrait.png]]
+> Morgan was at the Scholar's Bathhouse, a serene, marble-clad bathhouse where academics, researchers, and mages relaxed while discussing the latest theories and breakthroughs. While enjoying a well-earned rest, Morgan overhears two High Arbiters discussing a rigged Ludum Concordia game that resulted in someone’s disappearance. After leaving, a bathhouse attendant slipped Morgan a note, which warned him to "watch his back." The note is signed with the initials "V.A.". A second note followed, instructing him to “seek answers where the broken gather.”
+
 
 ## The Fractured Theorem
 Upon arriving at the [[The Fractured Theorem|Fractured Theorem]], the heroes kerfuffle-d their ways through the tavern. A mysterious figure vanished, leaving behind a curious receipt listing: an unusual order, a name that cannot be deciphered, and a payment stamp from a pub known as the [[The Obscured Quill|Obscured Quill]] in a district called [[Calveris#Omberlyn|Omberlyn]] that nobody seems to remember.
